@@ -44,6 +44,3 @@ Please note that you may need to sign up for an API key and update the code with
 
 This project was developed by [Harshad](https://github.com/HarshadSonule0703/Currency_Convertor_WebPage").
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
