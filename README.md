@@ -14,7 +14,7 @@ This is a currency converter web application that fetches real-time data for cur
 
 ## Usage
 
-- Visit the webpage [here](https://github.com/HarshadSonule0703/Currency_Convertor_WebPage") to try it out instantly.
+- Visit the webpage [here](https://github.com/HarshadSonule0703/Currency_Convertor_WebPage) to try it out instantly.
 
 ### Self Deploying 
 
