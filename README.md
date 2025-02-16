@@ -42,5 +42,5 @@ Please note that you may need to sign up for an API key and update the code with
 
 ## Credits
 
-This project was developed by [Harshad](https://github.com/HarshadSonule0703/Currency_Convertor_WebPage").
+This project was developed by [Harshad](https://github.com/HarshadSonule0703).
 
